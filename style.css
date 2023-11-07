@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    text-decoration: underline;
+    font-family: cursive;
+    background-color: white;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+    line-height:2 ;
+}
+
+body{
+    background-image:url("https://beyondexclamation.com/wp-content/uploads/2020/12/10-1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}   
